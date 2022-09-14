@@ -17,12 +17,6 @@
 - Random Forest Regression
 - Support Vector Regression
 - Extreme Gradient Boost Regression
-## Models Used
-- Linear Regression
-- Decision Tree Regression
-- Random Forest Regression
-- Support Vector Regression
-- Extreme Gradient Boost Regression
 ## Libraries
 - Numpy
 - pandas 
